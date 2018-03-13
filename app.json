@@ -1,0 +1,16 @@
+{
+  "name": "Spring Boot 2 WebFlux on Heroku Sample",
+  "description": "Sample Application Template using Spring 5,Spring Boot 2, WebFlux on Heroku",
+  "keywords": [
+    "Spring",
+    "Heroku",
+    "Java"
+  ],
+  "website": "https://mokamoto.com/",
+  "repository": "https://github.com/mokamoto/small-sharp-tool",
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-java"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+#temp folder
+build/
+bin/
+src/main/ui/node_modules
+
+#Gradle
+.gradle
+
+#STS
+.sts4-cache
+.settings
+.project
+.classpath
+
+#setting
+.env
